@@ -1,4 +1,4 @@
 Kapture
 =======
 
-A new screen capture tools for KDE
+A new screen capture tool for KDE
